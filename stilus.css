@@ -1,0 +1,102 @@
+
+.tarolo {
+	width: 90%;
+	max-width: 900px;
+	margin: auto;
+	padding: 10px;
+	background-color: #000000;
+}
+
+body {
+	font-family: Arial, Verdana, sans-serif;
+	background-image: url("black.png");
+	color: beige;
+	font-size: 10px;
+	margin: 0px;
+	text-align: justify;
+
+}
+
+.tartalom {
+	padding: 10px;
+	text-align: justify;
+	
+}
+
+h1 {
+	font-size: 15px;
+	text-align: justify;
+}
+
+p {
+	font-size: 10px;
+	text-align: justify;
+}
+
+.fejlec {
+	width: 100%
+	
+}
+#game {
+	width: 100%;
+	
+}
+
+
+#witcherkep {
+	float: right;
+	width: 250px;
+	height: 350px;
+	margin-left: 5px;
+}
+
+br {
+	clear: both;
+	
+}
+
+.usztatas {
+		clear:both;
+	
+}
+
+.tartalom {
+	background-color: gray;
+	
+}
+
+.lablec {
+	background-color: orange;
+  text-align: center;
+	
+}
+
+
+
+.menu {
+	background-color: #333333;
+	
+	
+}
+.menu a {
+	border-right: 1px solid white;
+	border-left: 1px solid white;
+	display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.menu a:visited {
+	color: white;
+}
+
+.menu a:hover {
+	background-color: orange;
+	
+}
+
+.menu a:active {
+	background-color: orange;
+	
